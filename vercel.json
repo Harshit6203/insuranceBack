@@ -21,7 +21,7 @@
       },
       {
         "src": "/(.*)",
-        "dest": "backend/wsgi.py"
+        "dest": "poll/wsgi.py"
       }
     ]
   }
